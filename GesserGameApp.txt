@@ -62,7 +62,7 @@ class umpire
   }
 }
 
- class GuesserGameApp
+ public class GuesserGameApp
 {
   public static void main (String[] args)
   {
